@@ -1,5 +1,5 @@
 nombre=input('Ingrese un nombre')
-nombre=str(pedro)
+nombre=str(nombre)
 edad=input('Ingrese Edad')
 edad=int(edad)
 print(f"Mi nombre es {nombre}, tengo {edad} años")
